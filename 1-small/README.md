@@ -2,6 +2,7 @@
 
 ## 1 - Launch Node
 
+
 Run `node` in the terminal and `console.log()` the string `"Hello World."`
 
 ## 2 - Hello Node
